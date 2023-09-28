@@ -1,6 +1,6 @@
 # computerStoreJava
 
-# Buying/Selling System
+## Buying/Selling System
 
 This Java-based buying/selling system allows users to create accounts, trade, buy, and sell computers. It employs concepts such as Inheritance, Abstract Classes, File IO, Serialization, and various data types like Vectors.
 
