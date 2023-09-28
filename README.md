@@ -1,9 +1,11 @@
 # computerStoreJava
-<img width="468" alt="image" src="https://github.com/jayvatti/computerStoreJava/assets/97709855/cafa1f4f-e143-475b-8c67-ca62ee53c232">
-
 
 ## Buying/Selling System
 This Java-based buying/selling system allows users to create accounts, trade, buy, and sell computers. It employs concepts such as Inheritance, Abstract Classes, File IO, Serialization, and various data types like Vectors.
+
+<p align="center">
+  <img src="https://github.com/jayvatti/computerStoreJava/assets/97709855/cafa1f4f-e143-475b-8c67-ca62ee53c232" alt="Your Project Image" width="800"/>
+</p>
 
 ## Project Overview
 This is a freshman year project focusing on the implementation of a user-friendly system where users can create an account to buy, sell, or trade computers with other users. The system is also equipped with an admin functionality, allowing admin users to manage the overall process, including user account removal and product updates. The initial data, consisting of products available for selling, is populated through File IO and includes serialization.
