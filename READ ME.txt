@@ -1,0 +1,32 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all they need to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: Computer Store
+PURPOSE OF PROJECT: Using serializaiton and File IO
+VERSION or DATE: v1.1
+HOW TO START THIS PROJECT: void main(String[] args)
+AUTHORS: Jay
+----------------
+USER INSTRUCTIONS:
+----------------
+Products TXT File Information
+
+For Computers:
+
+Serial Number,Product Type, Company, Device Format, Operating System, RAM, Storage, Processor, Graphics, Screen Specifications, Price, Seller Type
+
+(If the user lists a product, the seller type is user)
+----------------
+Serial Number Inputs are case Sensitive (Cannot accept Strings or other Data Types) - Only Integers
+----------------
+To Trade in with a user, both Users Must resepective products from both sides - OPTION 6 - USER MENU
+
+Option 7 works only If both users have successfully chosen each others products 
+----------------
+BUGS
+
+Reprints the Menu whenever an Integer is entered.
+----------------

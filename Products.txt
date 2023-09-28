@@ -1,0 +1,3 @@
+1,Computer,Alienware,Laptop,Windows 11,8,1,i7 7500k,3080ti,120hz,1299,Admin
+2,Computer,Apple,Laptop,MacOS,16,2,M1 Pro,16 Core GPU,120hz,1999,Admin
+3,Computer,HP,Desktop,Windows 11,16,2,i5 6500k,1060ti,No Screen,3999,Admin
