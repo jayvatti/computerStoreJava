@@ -1,4 +1,5 @@
 # computerStoreJava
+<img width="468" alt="image" src="https://github.com/jayvatti/computerStoreJava/assets/97709855/cafa1f4f-e143-475b-8c67-ca62ee53c232">
 
 
 ## Buying/Selling System
